@@ -1,0 +1,803 @@
+ [
+      {
+      "id": 1,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 2,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 3,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 4,
+       "hapus_aku":""
+    },
+    {
+      "id": 5,
+       "hapus_aku":""
+    },
+    {
+      "id": 6,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 7,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 8,
+       "hapus_aku":""
+    },
+    {
+      "id": 9,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 10,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 11,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 12,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 13,
+       "hapus_aku":""
+    },
+    {
+      "id": 14,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 15,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 16,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 17,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 18,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 19,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 20,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 21,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 22,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 23,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 24,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 25,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 26,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 27,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 28,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 29,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 30,
+       "hapus_aku":""
+    },
+    {
+      "id": 31,
+       "hapus_aku":""
+    },
+    {
+      "id": 32,
+       "hapus_aku":""
+    },
+    {
+      "id": 33,
+       "hapus_aku":""
+    },
+    {
+      "id": 34,
+       "hapus_aku":""
+    },
+    {
+      "id": 35,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 36,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 37,
+       "hapus_aku":""
+    },
+    {
+      "id": 38,
+       "hapus_aku":""
+    },
+    {
+      "id": 39,
+       "hapus_aku":""
+    },
+    {
+      "id": 40,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 41,
+       "hapus_aku":""
+    },
+    {
+      "id": 42,
+       "hapus_aku":""
+    },
+    {
+      "id": 43,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 44,
+       "hapus_aku":""
+    },
+    {
+      "id": 45,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 46,
+       "hapus_aku":""
+    },
+    {
+      "id": 47,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 48,
+       "hapus_aku":""
+    },
+    {
+      "id": 49,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 50,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 51,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 52,
+       "hapus_aku":""
+    },
+    {
+      "id": 53,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 54,
+       "hapus_aku":""
+    },
+    {
+      "id": 55,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 56,
+       "hapus_aku":""
+    },
+    {
+      "id": 57,
+       "hapus_aku":""
+    },
+    {
+      "id": 58,
+       "hapus_aku":""
+    },
+    {
+      "id": 59,
+       "hapus_aku":""
+    },
+    {
+      "id": 60,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 61,
+       "hapus_aku":""
+    },
+    {
+      "id": 62,
+       "hapus_aku":""
+    },
+    {
+      "id": 63,
+       "hapus_aku":""
+    },
+    {
+      "id": 64,
+       "hapus_aku":""
+    },
+          {
+      "id": 65,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 66,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 67,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 68,
+       "hapus_aku":""
+    },
+    {
+      "id": 69,
+       "hapus_aku":""
+    },
+    {
+      "id": 70,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 71,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 72,
+       "hapus_aku":""
+    },
+    {
+      "id": 73,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 74,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 75,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 76,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 77,
+       "hapus_aku":""
+    },
+    {
+      "id": 78,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 79,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 80,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 81,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 82,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 83,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 84,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 85,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 86,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 87,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 88,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 89,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 90,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 91,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 92,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 93,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 94,
+       "hapus_aku":""
+    },
+    {
+      "id": 95,
+       "hapus_aku":""
+    },
+    {
+      "id": 96,
+       "hapus_aku":""
+    },
+    {
+      "id": 97,
+       "hapus_aku":""
+    },
+    {
+      "id": 98,
+       "hapus_aku":""
+    },
+    {
+      "id": 99,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 100,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 101,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 102,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 103,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 104,
+       "hapus_aku":""
+    },
+    {
+      "id": 105,
+       "hapus_aku":""
+    },
+    {
+      "id": 106,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 107,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 108,
+       "hapus_aku":""
+    },
+    {
+      "id": 109,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 110,
+       "hapus_aku":"" 
+    },
+ {
+      "id": 111,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 112,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 113,
+       "hapus_aku":""
+    },
+    {
+      "id": 114,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 115,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 116,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 117,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 118,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 119,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 120,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 121,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 122,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 123,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 124,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 125,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 126,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 127,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 128,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 129,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 130,
+       "hapus_aku":""
+    },
+    {
+      "id": 131,
+       "hapus_aku":""
+    },
+    {
+      "id": 132,
+       "hapus_aku":""
+    },
+    {
+      "id": 133,
+       "hapus_aku":""
+    },
+    {
+      "id": 134,
+       "hapus_aku":""
+    },
+    {
+      "id": 135,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 136,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 137,
+       "hapus_aku":""
+    },
+    {
+      "id": 138,
+       "hapus_aku":""
+    },
+    {
+      "id": 139,
+       "hapus_aku":""
+    },
+    {
+      "id": 140,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 141,
+       "hapus_aku":""
+    },
+    {
+      "id": 142,
+       "hapus_aku":""
+    },
+    {
+      "id": 143,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 144,
+       "hapus_aku":""
+    },
+    {
+      "id": 145,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 146,
+       "hapus_aku":""
+    },
+    {
+      "id": 147,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 148,
+       "hapus_aku":""
+    },
+    {
+      "id": 149,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 150,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 151,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 152,
+       "hapus_aku":""
+    },
+    {
+      "id": 153,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 154,
+       "hapus_aku":""
+    },
+    {
+      "id": 155,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 156,
+       "hapus_aku":""
+    },
+    {
+      "id": 157,
+       "hapus_aku":""
+    },
+    {
+      "id": 158,
+       "hapus_aku":""
+    },
+    {
+      "id": 159,
+       "hapus_aku":""
+    },
+    {
+      "id": 160,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 161,
+       "hapus_aku":""
+    },
+    {
+      "id": 162,
+       "hapus_aku":""
+    },
+    {
+      "id": 163,
+       "hapus_aku":""
+    },
+    {
+      "id": 164,
+       "hapus_aku":""
+    },
+          {
+      "id": 165,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 166,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 167,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 168,
+       "hapus_aku":""
+    },
+    {
+      "id": 169,
+       "hapus_aku":""
+    },
+    {
+      "id": 170,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 171,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 172,
+       "hapus_aku":""
+    },
+    {
+      "id": 173,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 174,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 175,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 176,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 177,
+       "hapus_aku":""
+    },
+    {
+      "id": 178,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 179,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 180,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 181,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 182,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 183,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 184,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 185,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 186,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 187,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 188,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 189,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 190,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 191,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 192,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 193,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 194,
+       "hapus_aku":""
+    },
+    {
+      "id": 195,
+       "hapus_aku":""
+    },
+    {
+      "id": 196,
+       "hapus_aku":""
+    },
+    {
+      "id": 197,
+       "hapus_aku":""
+    },
+    {
+      "id": 198,
+       "hapus_aku":""
+    },
+    {
+      "id": 199,
+       "hapus_aku":"" 
+    },
+    {
+      "id": 200,
+       "hapus_aku":"" 
+    }
+    
+  ]
