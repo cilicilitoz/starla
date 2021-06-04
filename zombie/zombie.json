@@ -1,0 +1,671 @@
+{
+  "Ads": [
+    {
+      "status": "0",
+      "link": "http://",
+      "pengaturan_iklan": "1",
+      "admob_open_ads": "ca-app-pub-6026900188964442/6552954347",
+      "admob_banner": "ca-app-pub-6026900188964442/4693077766",
+      "admob_inter": "ca-app-pub-6026900188964442/2996852719",
+      "admob_inter_video": "ca-app-pub-6026900188964442/2416762584",
+      "admob_native": "ca-app-pub-6026900188964442/4105920253",
+      "admob_int_reward": "ca-app-pub-6026900188964442/8517128895",
+      "interval": 5,
+      "fan_inter": "",
+      "fan_banner": "",
+      "fan_native": "",
+      "startappid": "201669628",
+      "icon_promote": "https://play-lh.googleusercontent.com/Dld9bhq6b7pBAb2lDFOawu6pRWC70M1WGwNHcGbDyibEzBk5c3mobbrJRM5Rv-iTYw=s180",
+      "judul_promote": "TRY NEW PRESTON SKIN",
+      "deskripsi_promote": "PRESTON SKIN FOR MCPE",
+      "gambar_promote": "https://nananananana.site/starladev/preston/images/ads.jpg",
+      "link_promote": "https://play.google.com/store/apps/details?id=com.starladev.preston.skin.mcpe",
+      "gambar_promote2": "https://nananananana.site/starladev/ultracraft/images/ads/ad.jpg",
+      "link_promote2": "https://play.google.com/store/apps/details?id=com.starladev.ultraman.skin.mcpe",
+      "privacy": "https://sites.google.com/view/starla64/home",
+      "tutorial": "https://sites.google.com/view/mcpe-starla"
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "judul": "Ludo King",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id": 2,
+      "judul": "Homescapes",
+      "image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id": 3,
+      "judul": "Minecraft",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Skin": [
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1SBlarD-C1oTGkCZvbmZ5b0CGOQS_M8il",
+      "skin_url": "https://lh3.googleusercontent.com/d/1g7jUrIh4Lmq3fC-LUfm3ubBN7wua9I6x",
+      "nama_skin": "Skin Zombies - Premium Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1AwvmLkG2PYk3r8ijsPnaeg7j-6hsO2ff",
+      "skin_url": "https://lh3.googleusercontent.com/d/1amBNPhNb0fO63r1XlR3LIc61XtOlDbRX",
+      "nama_skin": "Zombi Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1hjO9wi4QM65Mk-_svz2kJzT96ra1S1ga",
+      "skin_url": "https://lh3.googleusercontent.com/d/1SGhifX22zdStQ4v5o-g4Hmwv2NiQserk",
+      "nama_skin": "Zombie Skins - Premium Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1IOKhQgGjEV0QLCPPo-5_KY6BaV2HXptY",
+      "skin_url": "https://lh3.googleusercontent.com/d/1arINuFEpQClAXby0AMnW59lAuYydb3SA",
+      "nama_skin": "Zella (Zombie Girl)",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1SVjQj_KlKWqbkw1tnLayVZFvBETxi3vE",
+      "skin_url": "https://lh3.googleusercontent.com/d/1RZ7zCCWoumDI8KY7LUr-NFlsyecHCnyV",
+      "nama_skin": "Zombie Bert - Premium Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1zXX1aC4njIqn5zwh7lOXHcC3COqVGYBX",
+      "skin_url": "https://lh3.googleusercontent.com/d/1fDFEu8JXoYidkej3vckbk1eSL7t7tbk5",
+      "nama_skin": "Eder Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1ZEJBujWoW7y31K9_oo1OFlcqMsu8wL9q",
+      "skin_url": "https://lh3.googleusercontent.com/d/1YF6_k108voCXALPdArU_nG1sL-4DMk7K",
+      "nama_skin": "Addison Zombies 2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1xpBIHfD0_tmIIvvzoQhUgI5AkGEFSo5B",
+      "skin_url": "https://lh3.googleusercontent.com/d/1PKVjwq5gGl3CZvUFzsgrCOZo2Ty6HyRZ",
+      "nama_skin": "Zombie Mepe",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Z6xu2-WEGIurg3kwm0bEvJijXzWN4IDn",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Bl14Njj6I2C9z-CbZEByuUw2ipuCyiKr",
+      "nama_skin": "Iron Man (Marvel Zombies)",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1FVZZpbeME98HsRsk6xD4gjzpbo0SndO3",
+      "skin_url": "https://lh3.googleusercontent.com/d/17AgFFKVCIU5wNLb6zhTjPhra_654eUQG",
+      "nama_skin": "Zombie Girl Black Eyes",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1_irt-MF-HKZeQ_i759Fj1Maa-48Fp6gu",
+      "skin_url": "https://lh3.googleusercontent.com/d/1a7aaKmjFEtr8u-zeCxQc4_mK8DNOHBaG",
+      "nama_skin": "Zella Zombie Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1np-6cV3PZbJf0UqsuWhw_tmJ6O0__71t",
+      "skin_url": "https://lh3.googleusercontent.com/d/1bENVI17kk05nuNyCYdZRYpJjEEpj8XBw",
+      "nama_skin": "Peashooter from plants vs Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1HbwXWqaxHXO8RSAUGNjYymOrqb3icYar",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Rd0HPnX5rrIaDlTm_WdPpqnMa2xMfqA2",
+      "nama_skin": "Necro Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/15bQzz87TRugjU_Ikv_71-hv1i9CnPanC",
+      "skin_url": "https://lh3.googleusercontent.com/d/17QOG1kQOA9UYotZG6fu1zP5aZvXwTdmE",
+      "nama_skin": "Zombie Cat Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1AycdFRqwu9LLfurBNHCKEZwM3BtaqRFF",
+      "skin_url": "https://lh3.googleusercontent.com/d/1QwjXnzTvxBMs9g-rgnZoPymdK6THPXnx",
+      "nama_skin": "Ervilhadora Plants vs Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1-ogya6tb4bsUqXWOcbelO0GAIE8jzlYT",
+      "skin_url": "https://lh3.googleusercontent.com/d/108hbBKKk1zghVmXq3wIDbi8zFDL0UEmS",
+      "nama_skin": "Zombie Herobrine",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1lnVHboDSeLqmfNjFS72zR2JPHtPspQ4t",
+      "skin_url": "https://lh3.googleusercontent.com/d/1vChSfXpd3fi_-JN-09cO_n5z-3s6p5et",
+      "nama_skin": "Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1q3fgGXMlPjjuOimfxu4I0T7mMMTIKRgJ",
+      "skin_url": "https://lh3.googleusercontent.com/d/1tHLVVHtctOEBqcT0eUCgm5Yc9MWWX-29",
+      "nama_skin": "Ninja Zombie Pigman",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1WFg0Evg4v-0Hau4a6hOrfW-1gTL-qqA4",
+      "skin_url": "https://lh3.googleusercontent.com/d/1aR5KBce6z0UcOzwoUHHbw3LkgbTtCk7M",
+      "nama_skin": "Zombie Girl Cawii",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1_ReMSJV19UWYPBpzq3_lvSIFFs3dj6uR",
+      "skin_url": "https://lh3.googleusercontent.com/d/1RKSZOB_wJ5PPnJWLpICOyf67JAGLsQnu",
+      "nama_skin": "Zombie Girl2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/11-8Zz0uYG_QTEGeCZNsAmBvWbofPvgsp",
+      "skin_url": "https://lh3.googleusercontent.com/d/1NRyC8B2lce9Jt8aFgEjm_y1mP1ASsCOP",
+      "nama_skin": "Zombie Swat",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/13MOviay7zPaawqKk0bY-Byifcq-BckXF",
+      "skin_url": "https://lh3.googleusercontent.com/d/1m--vJPG4NI4JiR7wOCfHDpW1s8waT7fi",
+      "nama_skin": "Peashooter from plants vs Zombie2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1lDvhY-9RUGp0z2MHNneB2nOyxn_-Eh94",
+      "skin_url": "https://lh3.googleusercontent.com/d/1H_EgjzLDu91KI3PMTlL11yJWbFuKv-aI",
+      "nama_skin": "Zombie Cool",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1yI44tO0UAvoeEL7xtghmddaZtSHSgwGM",
+      "skin_url": "https://lh3.googleusercontent.com/d/11R45zHJf31tG2cMfbZAS152FfLEtrMXu",
+      "nama_skin": "Hella Cute Complete Zombie Anime Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1TjqMheY4w4nJTbfZ2qAz5fZQELnaZGJd",
+      "skin_url": "https://lh3.googleusercontent.com/d/18sgFXRaNI_2T5nWWSKHnOIEpTeR-0U-C",
+      "nama_skin": "Green Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1KkrBBiCL3DtYJkyUJuAxF2wOZmw82ikX",
+      "skin_url": "https://lh3.googleusercontent.com/d/1EqQwlvgwxtKSyn8TcEI7f4Ljb42XYcbd",
+      "nama_skin": "Ahhhh Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1nb3WiEEA40GyTIoZyaH79N8FaJ7AKdfn",
+      "skin_url": "https://lh3.googleusercontent.com/d/1wIf7HCZcHgLKi27PYK-JCSeAv0BHM7mu",
+      "nama_skin": "Zombie Azog",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1ujn3mvxnYtk3-elEjIcW4tev_vM55SLd",
+      "skin_url": "https://lh3.googleusercontent.com/d/1FXZv3CrgXf93G-gChh1maLMnhz4t66mB",
+      "nama_skin": "Zombies im Buch",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1oQN4h-0CoDUbWzxa8MTkIvRFRXjDO9oO",
+      "skin_url": "https://lh3.googleusercontent.com/d/1IYcoHd0lko0QJ503vp5khKq-wxmnqOow",
+      "nama_skin": "Zombie Pigman",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1qTwX1gXqxY9MUV5KC9qei9Ptdm9ZzYDv",
+      "skin_url": "https://lh3.googleusercontent.com/d/1VW8X6uNZtDoKsPDYnZnFT_3BgtGtlkue",
+      "nama_skin": "Super Duper Extremely Mega Hyper Huge Cool Zombie Boy Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1EQJ82_bj1UudVhc3B1ymxUiL-xihhRoq",
+      "skin_url": "https://lh3.googleusercontent.com/d/1VTUUdYjF288MS8R_kvzpVgufBnWUfYL7",
+      "nama_skin": "Killer Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1puXaOuCGXZHVukz5Vwznofwx_utcpyKl",
+      "skin_url": "https://lh3.googleusercontent.com/d/1EDRlClLJjhHf-ymVhzQA9DYy53vod1Tz",
+      "nama_skin": "Zomby Mumy",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1rAuZg3oXYL9DLN7akW1EhPBI8u3v7k19",
+      "skin_url": "https://lh3.googleusercontent.com/d/1lrUbzmev8_PIJrEZwtXO6WekwTu5FWNU",
+      "nama_skin": "Zombie Mob Fire Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1J_c9nxwhLVaSFESO0okJQ2pBdiVZU8BM",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Duhiv34efX-4VQQG-gk4zL_h1izyF08B",
+      "nama_skin": "Galervilha (Plants vs Zombies)",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1i-Mm5IogSkxQ2moZk8IyfUQ54IP-R4Ji",
+      "skin_url": "https://lh3.googleusercontent.com/d/1qt4UoATVr5MVS82A4tTpaNkwb91mbgKp",
+      "nama_skin": "Allies Zombie Apocalypse Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1T5oDdzRFOAcrhqbjuV-fTXmwTS1fBuB8",
+      "skin_url": "https://lh3.googleusercontent.com/d/1-FNyJdgvut8VLlU4A3B-QYfCxd0BqHsA",
+      "nama_skin": "Karim23608 Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Fxp4U5vS_mBtwAExuiAyhZ2hEikyDgRk",
+      "skin_url": "https://lh3.googleusercontent.com/d/15sRcLfIII-6C8754PDyRLtMF_CuPHh8J",
+      "nama_skin": "Zombie Pigman Ninja",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/11bN6V-3cMhPcP5CWrYytgBW9iIa8Rri-",
+      "skin_url": "https://lh3.googleusercontent.com/d/1SGhifX22zdStQ4v5o-g4Hmwv2NiQserk",
+      "nama_skin": "Zombie Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Y6ERsoE56mPz-q6A9XCK_ne3roEjALIL",
+      "skin_url": "https://lh3.googleusercontent.com/d/1klnJaWZXe0G6yxhAWmRH5h4yFkdw52nM",
+      "nama_skin": "Zombie Pigman Boy",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1lvEkGreV6y1tIPezcl-uLILTe0zTmRsa",
+      "skin_url": "https://lh3.googleusercontent.com/d/12pdmszDo0fx0S5ibS4bNf7LTWo3Rz3rJ",
+      "nama_skin": "Zombies Survival",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1oNhmgxHDIVX74Y5NN1pzPXA2uIlGrbHs",
+      "skin_url": "https://lh3.googleusercontent.com/d/1X5XNNfDPM5axFryofULFr5Kguky4dcm4",
+      "nama_skin": "Zombie Girl Likes Being xd",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1g5zyFMl8IF_ijflaWEbKfcM7vHPHLt66",
+      "skin_url": "https://lh3.googleusercontent.com/d/1DI6o0_Tb5oKHC1TKK00oYMux7FYYFubF",
+      "nama_skin": "Eliza from Zombies 2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1-WHl1WQPOx2wBIXwPql-4rjs2fwurIC3",
+      "skin_url": "https://lh3.googleusercontent.com/d/1i4HxeEBlPao6h81-bGeNuwWmWnRmgckr",
+      "nama_skin": "Zombie Girl Mask",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1os-Wcq8qREQldt1ng10ZbGMfQxjo39IH",
+      "skin_url": "https://lh3.googleusercontent.com/d/160FDAKGFCwWF-qlrVt73i4DrYX3TIWyb",
+      "nama_skin": "Zombie Pro Skins",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1BcxOz4epK6_SGhfnQBaESuukTyygYkih",
+      "skin_url": "https://lh3.googleusercontent.com/d/1TjMo1vD4DAFLtjRUrrXoqv1ardMTMsvi",
+      "nama_skin": "Zombie Pigman Old",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1snCvnN8HmHe7edsLtHdXTO7N-nBkiIWi",
+      "skin_url": "https://lh3.googleusercontent.com/d/13z-jo3Qcu-oxdznQpChahC5FvE0uJUb7",
+      "nama_skin": "Zombie Skin (Fighting for Love)",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1_ijLVpF2htqULA7grUWF9h9nSASI_Uln",
+      "skin_url": "https://lh3.googleusercontent.com/d/1d1srfbRPNFL24MHJeC7jTvgZevvwrBc-",
+      "nama_skin": "Zombie With Plants vs Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/19Ihi9o5cuhWdPHxrYNNp7J0PYXzK4duI",
+      "skin_url": "https://lh3.googleusercontent.com/d/1qakt9m3U3HJ2Vv1x8ETBaqPn1iMM9Enu",
+      "nama_skin": "Zombie Boy",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/14TRiqMV-Jxib57A9gbQg6o5458RAoEMp",
+      "skin_url": "https://lh3.googleusercontent.com/d/1mr10MFH-KmHnewsxkxY_ncTUU8z1sgPs",
+      "nama_skin": "Desert Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1jfLaXRmQs39xrYEbMARYyEyBUhUm4SGt",
+      "skin_url": "https://lh3.googleusercontent.com/d/1XVZYf8qw95N2qz9TlrHUuKtHTLGu5n20",
+      "nama_skin": "Zombie Mob",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1aHizBc8BPm7-Fj270ZECEvHMpgyPZt4A",
+      "skin_url": "https://lh3.googleusercontent.com/d/1SixuvotkltDkkU_03HZPuDFPGHCv-Rkq",
+      "nama_skin": "King of Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1wtgNvFkoW7WJQGuy0FW--Fk0HKo9MAIl",
+      "skin_url": "https://lh3.googleusercontent.com/d/1keekYnIq7rLY6lp9NOHHyu3aM74caSa-",
+      "nama_skin": "Scary Zombie Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1H1qmkc2JrsDDXjRAsxJPKOYG3q6NTA5F",
+      "skin_url": "https://lh3.googleusercontent.com/d/1J4N83YQghmxnwUGV9gGTEwQACv8zT7O0",
+      "nama_skin": "Plants vs Zombies Halloween Echo por Brayam 710",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1k0zKJkw-JevX61Zz5qY_VZxgkN32qWZo",
+      "skin_url": "https://lh3.googleusercontent.com/d/11NG7nMvAjFYofwz_tyYPQ9SgwJ_2PrzL",
+      "nama_skin": "Mrfudge - Drowned Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/11DzkedIEdnvKigbYBCwyUyiFba3laPl4",
+      "skin_url": "https://lh3.googleusercontent.com/d/1I4QsphpnxQtjZ9owAhYJXiCZVujCzFX_",
+      "nama_skin": "Zombie Drownwd Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1HtIN-ks4yFnlm3vh45MLKpr2AxFKAspM",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Mb5v-11QRylI8nHILoEqOlFMR5v8ndT7",
+      "nama_skin": "Zombie Youtuber",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Sl7AW-cxMHCQlaMqI0kL3pgwZSiM58sa",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Wn0DnpgeXcnftzWZTKyw0jpH5xY-YFEW",
+      "nama_skin": "Teen Zombie2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1fzb2ObKRLJJm8FyFZ8YHTWGYUjGegMvM",
+      "skin_url": "https://lh3.googleusercontent.com/d/1FQYz8ciB0icOBZGDMOwDP1kFyBBCZjda",
+      "nama_skin": "Lina Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1zbUueaWCzO3TdzPHwnIp9UqPHSKKMcWU",
+      "skin_url": "https://lh3.googleusercontent.com/d/1JPcqbVrHjPuFtOUy2F_e87XyHP2J2ir5",
+      "nama_skin": "Zombie Girl",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1xXL6GYLMGzHkYmbJXmIIEjGgmSrCMzkr",
+      "skin_url": "https://lh3.googleusercontent.com/d/16GqvYtAf1vml2k6rkvO55WdSWpsQBycC",
+      "nama_skin": "Ice fire Super Cool Zombie Boy",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1ieX-PD5aMtnL06jkPOuWF7SNOnyvEnAj",
+      "skin_url": "https://lh3.googleusercontent.com/d/1JA1LtUwhEsiaH645yHvc9VoMWmOf5AaZ",
+      "nama_skin": "Bob The Zombie Villager (Story Mode)",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1ejjGYI4ubkfnYAWmIH515wK4eNU4RJOO",
+      "skin_url": "https://lh3.googleusercontent.com/d/1v4ot9DcHivnfZ1jFUuJeQeEYuAB_nupX",
+      "nama_skin": "Katipe 2879 contre les Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/136N6XiGIGfxD3GgjJGMzHrIPUUUtLB_o",
+      "skin_url": "https://lh3.googleusercontent.com/d/1m_wnS8g6hsuS_kdM9JYx1eVJAA1rwDTG",
+      "nama_skin": "Plant vs Zombies Zombot",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1r35CFKDSMhAuwQn6-DMUaGgt97UWMAFp",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Q_CX_Ep_LwnkjHzrn5bimjhj1AQjI3K3",
+      "nama_skin": "Zombie Pro",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1VR45xxtC1ZQttWPPNZtEnh7V7tzXIzqL",
+      "skin_url": "https://lh3.googleusercontent.com/d/1mYmorTzCQ9I9wGHZyEPLVLkOWcWb-bj8",
+      "nama_skin": "Zombie Trap FF",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/13mDYM_DMsGWyekMCS_Qw_EJJMSbUtav0",
+      "skin_url": "https://lh3.googleusercontent.com/d/1QldvRn5t18NIsUEpF9v94M1mc8Wpt2fi",
+      "nama_skin": "Ice Super Cool Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/17nzDvqIctKEMFdozX_T6tOG2IN5fOUG1",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Hv7YUc8raMTbrDqdVMwQk-IGtOgujdCP",
+      "nama_skin": "Zombie Herobrine2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1_fz5B5EIXDUXM8sE1b4wrIRwWMeZCTUD",
+      "skin_url": "https://lh3.googleusercontent.com/d/1j8uuKFRL4OS1pfsGiqBWxdby0fYCSYUW",
+      "nama_skin": "Ervilhadora (Plants vs Zombies)",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1YB11WqVWoRrgbLdqQBiVdCbXaSfjpDkz",
+      "skin_url": "https://lh3.googleusercontent.com/d/1foD6qf3lDBPRbuLL7WsN2sJlxxTU5Hx9",
+      "nama_skin": "Zombie Girl Swimsuit",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1crjsztc1b8NoEJ4MKi7P2Vdt8B9-Mzjy",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Rlf80vxS-iNx9ig1bC2qJPwNHjvxK7cP",
+      "nama_skin": "Teen Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Hnm0k6l0ClxDa-7ZRMVr84TYldCOfbD4",
+      "skin_url": "https://lh3.googleusercontent.com/d/1YAFGUupgKLZbGOUAmNHpQiaAta06NJfe",
+      "nama_skin": "Diary of a Minecraft Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Dor7lLqecY17kLWdBAaTenzPvLU7Nf_A",
+      "skin_url": "https://lh3.googleusercontent.com/d/1LyKiXB-wNFhUz3XYRiHEwFUkEqbpphs-",
+      "nama_skin": "Plant vs Zombies 2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Kf5QVl5skwGFHJTOQGAdpqzCpsyLPojD",
+      "skin_url": "https://lh3.googleusercontent.com/d/1pkz_v-_Z_DBNHM1kec31R9f52m7Js_45",
+      "nama_skin": "Cool Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1YFATh_2C6DM0eB-Hqrasf-KFeXBRQniQ",
+      "skin_url": "https://lh3.googleusercontent.com/d/14IMqrL5aKq0CZQpmNqjcwLB0cqYqeuKn",
+      "nama_skin": "Steve Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1fFp0zlTUc8YnnceAFYSvIwL-uNQ9Sa89",
+      "skin_url": "https://lh3.googleusercontent.com/d/1LyKiXB-wNFhUz3XYRiHEwFUkEqbpphs-",
+      "nama_skin": "Plants vs Zombies2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1EUn1aIRGhVmQQn2SLcM-nSEOVG0PJSaw",
+      "skin_url": "https://lh3.googleusercontent.com/d/1G7rOkd_Jntmlf_s4vywcPDb-O3Jokpww",
+      "nama_skin": "Plant vs Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1KU-lpl4pR5YYPlPG3z4SZlPDvr_8ezZ_",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xgaTzmc3h6HW2GypR9X8T94QlHZSF9_q",
+      "nama_skin": "Fire Pro Super Cool Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/18RyJnq8YYF0xW4K5WRB0sX1q3NeXArre",
+      "skin_url": "https://lh3.googleusercontent.com/d/10nK7KMPoZ1QSlTLeQEaBI_RXhT2Fe-84",
+      "nama_skin": "Zombie in a Suit",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1skEtxOzG6qwjyl6czoVmyzpLWuqsteis",
+      "skin_url": "https://lh3.googleusercontent.com/d/1G7rOkd_Jntmlf_s4vywcPDb-O3Jokpww",
+      "nama_skin": "Plants vs Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1GWU4e-oC1twzgZ-P-DubbCWmcZWR2XBq",
+      "skin_url": "https://lh3.googleusercontent.com/d/17bZ3UV91CpaSiGIH0iTBI0JNLbYJSkqt",
+      "nama_skin": "Unidades anti Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1nIoz2qIAUAucqbUiAZFvh830c2fMQv0P",
+      "skin_url": "https://lh3.googleusercontent.com/d/1zLfQ8_uO4MQhAfxLDhpU0CsxqXfqjqps",
+      "nama_skin": "Monster School Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/18EGCSr8AkOACIMv3p4v5cJ0ELNIZ-LEk",
+      "skin_url": "https://lh3.googleusercontent.com/d/17ftx6waL8_809acqE6bnhdC82ni2vZ8e",
+      "nama_skin": "Zombie Buzo",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1tCsxG85rmAm37CQJ1Ur3KbeaYshwtXNf",
+      "skin_url": "https://lh3.googleusercontent.com/d/16VxCTSIryiaId7k1gBK9qJAArDDEk2Ib",
+      "nama_skin": "Zombie Hunter",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1MVRxXtBD8i5JeBoCAMk4Qv6dTiySlFaq",
+      "skin_url": "https://lh3.googleusercontent.com/d/1CW8Z1skvzZEPnE6m7Ni0q3qJgPqPMUBr",
+      "nama_skin": "Zombie Matty",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1qMFrnwCNhQCNfuH9WjMjVbPop1zXw_jD",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xoQeXgUHyQH7pVeN0d5PYEn7y6fHKISN",
+      "nama_skin": "Cacto Plants vs Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1OD_p28lWiVetU4IUYeQ60Wbm32kzDKLG",
+      "skin_url": "https://lh3.googleusercontent.com/d/1HvwCRy4dWxQ2QHoFDQIQSoqA9Wp_NIuG",
+      "nama_skin": "Dimond Zombie",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1hvj-IcpsNl-yuG5q5xRAq9mi6OQUPrCd",
+      "skin_url": "https://lh3.googleusercontent.com/d/1klnJaWZXe0G6yxhAWmRH5h4yFkdw52nM",
+      "nama_skin": "Zombies'",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1fHepYaCKP5u9wA53HW_VJcvWt7ZUr64_",
+      "skin_url": "https://lh3.googleusercontent.com/d/1GBw_RqAPxbDl9J4p4odk2zD0tDqMOX5D",
+      "nama_skin": "Galervilha Plants vs Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1jDkIYs8ojCgAgS_x4kAAciPOAhH6Ifj-",
+      "skin_url": "https://lh3.googleusercontent.com/d/18kzUtc5V2mYgQzXI2aAjM7lfYZNRIfbm",
+      "nama_skin": "Zombie Ben Salem Kohmn",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1mFNVkrCb1vSHT4TtmEHKcMLUBTYud_Kh",
+      "skin_url": "https://lh3.googleusercontent.com/d/1C_LewRU2dEi2RiNr307kmKw4HLpCYwoi",
+      "nama_skin": "Zombie Pigman Texture Update",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1zG4ppXySi5t5QUTJe4-ZzDZfa7XU-JTE",
+      "skin_url": "https://lh3.googleusercontent.com/d/1jQRUCDhBYFlIVtbAUaXPlBUa47ZQO3Ai",
+      "nama_skin": "Necro Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Al83VfuK0Hh8ix7RvDxVT3zsp-_sssJ3",
+      "skin_url": "https://lh3.googleusercontent.com/d/1fgrbBFIuPzCJF4f7OH0XRYJYoYchwfjA",
+      "nama_skin": "Soldado anti Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1LNbWTFUhyrsiLih4JQRtvsmpY_n0sk1b",
+      "skin_url": "https://lh3.googleusercontent.com/d/1XEi3bSazsKSO7eC7huttfYqHv1yl2Yqm",
+      "nama_skin": "Pro Boy Cool Gamer Zombie Skin",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1Cz1jBUfzu7oSdaPCf0Y_s4mdXmT0_Dkc",
+      "skin_url": "https://lh3.googleusercontent.com/d/1QNLVYS-l8WCNsR3RC2b-KNpLxq54XZcu",
+      "nama_skin": "Zombies Survival2",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1VLuyQXrwrAN1mQaZ_p0Np_NxwgRjhu_R",
+      "skin_url": "https://lh3.googleusercontent.com/d/1yTCT2fxegu0xqKAHWH-aD30r8KsFF9Vo",
+      "nama_skin": "King of Iron Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1TOPsnEAC9BOL7yEIrZk65qx47b4z4zGP",
+      "skin_url": "https://lh3.googleusercontent.com/d/1GKyqgQ1OxCZBKNNlc_WPpgsSnBSCb9Lg",
+      "nama_skin": "Zombie Steve Con",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1kfb5TJoLQ8CGYMgE5ITA_ybsc0IZ2TZk",
+      "skin_url": "https://lh3.googleusercontent.com/d/1e4DJKZKcdGf9WZwPoynfYCjORAQ9TwWL",
+      "nama_skin": "Zombie Para Cinema 4d",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1_OsuJ1TsXcxUHq90aaa_IcHx7UGDuk9-",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Qm7KlgPjrStZ58UIyNj5EbQ4r3REoMtQ",
+      "nama_skin": "Chases Zombies",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1TgaugL0x4dYZix-2M_v76ENKZ2fJQQrR",
+      "skin_url": "https://lh3.googleusercontent.com/d/1e6DYl7YQMDVIHHJQS_U4Td1E8tVJoCun",
+      "nama_skin": "My Skin Zombie Cool",
+      "id": 1
+    },
+    {
+      "view_skin": "https://lh3.googleusercontent.com/d/1sTsICckKnnQkvmZHwyvmi9Lc6bVgkZ0O",
+      "skin_url": "https://lh3.googleusercontent.com/d/1TqTm1DV4FrfqpkI81xPcOg8x4ySVeVLb",
+      "nama_skin": "Zombie Mob2",
+      "id": 1
+    }
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "nama_add": "Cat Plush",
+      "add_url": "https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url": "https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url": "https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add": "https://aliendro.id/wp-content/addon/catplus",
+      "des_add": "file:///android_asset/cats.html"
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "nama_map": "Hello Neighbor2",
+      "map_url": "https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map": "https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map": "https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
