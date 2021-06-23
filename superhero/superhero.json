@@ -10,10 +10,10 @@
       "admob_inter_video": "ca-app-pub-6026900188964442/9684339510",
       "admob_native": "ca-app-pub-6026900188964442/7058176178",
       "admob_int_reward": "ca-app-pub-6026900188964442/8371257845",
-      "unity_banner" : "banner_medieval",
-      "unity_interstitial" : "int_medieval",
-      "unity_game_id" : "4170631",
-      "unity_test_mode" : "true",
+      "unity_banner": "banner_medieval",
+      "unity_interstitial": "int_medieval",
+      "unity_game_id": "4170631",
+      "unity_test_mode": "true",
       "interval": 5,
       "fan_inter": "",
       "fan_banner": "",
@@ -57,697 +57,696 @@
     }
   ],
   "Skin": [
-	{
-		"view_skin": "file:///android_asset/view/superhero1.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/14iBZd3UbssEAjD8IevuFAHfuFiVImBV0",
-		"nama_skin": "3D Fire Iron Man.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero2.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1gEi2YC9_rxDAZHyrTCuQLnUAKTvn5ZrQ",
-		"nama_skin": "America Captain.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero3.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1MLSUGPq-lOCEuM39JItWOYo5UUX1ZuOl",
-		"nama_skin": "Ant Man #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero4.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/174aJTZPP1QmduH9-9G1TNz8uBeW62fT2",
-		"nama_skin": "Ant Man #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero5.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1A0cbEF5gT6p23k1fWkqGb5vgZt1sTaW-",
-		"nama_skin": "Ant Man And The Wasp's Antman by Marvel Spidey.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero6.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1_OWG1-lFv6tNODWVum_mCWnSsDXUo7q9",
-		"nama_skin": "Ant Man Scot Lang.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero7.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/14DhbsX5xNc88udWiYIfzIp2cFGFIhaO8",
-		"nama_skin": "Armored Batman.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero8.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/12839TNe5O8ZcHA2sCWMIP7VR6MFLKk29",
-		"nama_skin": "Avengers AOU Captain America.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero9.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1BmF19po50iz8n3dOkb-M8irpgfEW2Oe3",
-		"nama_skin": "Avengers Bekir Thor Okadar.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero10.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Hrrc4bbJXjNIL1d__BSl7RlxvzBAXNkz",
-		"nama_skin": "Batman Arkham Knight.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero11.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1WCuehWqOjcDP6JgeOzJnmBRUPXuBd7WC",
-		"nama_skin": "Batman Beyond Suit.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero12.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/10PCWpCQXdfixTsoyxQAxR_y3vYdfTRdS",
-		"nama_skin": "Batman Erkek.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero13.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1WX2Vynj0ZpOCXZy1j3p4XiIalEf8aDcv",
-		"nama_skin": "Batman Minecraft.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero14.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1sOCRS1ya1o7rVzhuURti316zRH9I_uHm",
-		"nama_skin": "Batman Murder Machine.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero15.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1QnuFAtpM6nmwczUvxJjK3RTNx8O_SH82",
-		"nama_skin": "Batman Skin.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero16.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1z3n214qMc-c7TjRCutaNVab2pl7BgtYW",
-		"nama_skin": "Batman The Dawnbreaker.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero17.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1o29JKv0j74XrvRipGnnRWOjjdvez_7z9",
-		"nama_skin": "Batman The Merciles.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero18.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1nKylCwxDvjans7Z-_Y4sdnWHmpcKgM3W",
-		"nama_skin": "Batman The Red Death.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero19.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1CLHbgnqByUTcvbCca8jWYJuWr4Gluy82",
-		"nama_skin": "Batman Thomas Wayne.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero20.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1a-wnhwwVKbgCd9-ZUB2Ue3c-dCC8nQ8L",
-		"nama_skin": "Bruce Wayne Batman Suit.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero21.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1eigBT_U1iTxqvdaWek0LBGJkFF7rr6oP",
-		"nama_skin": "Bruce Wayne Batman.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero22.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/13vJGDbwlLeBHNElYsT1NDXpHjdFcLReN",
-		"nama_skin": "CAPTAIN AMERICA.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero23.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1uV1U2Xnh9UNAnf5TN9kzEKu9WFxZm5NF",
-		"nama_skin": "Captain America #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero24.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1y4Y2l-uc634bxv1LAYlWFKwZGXXOJxcU",
-		"nama_skin": "Captain America #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero25.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1IhtzagEfk6ZJ2xhCHR8ulc_9xAMGGWh2",
-		"nama_skin": "Captain America #03.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero26.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/19cHetTo5DVqHOSGIGkMKXVZ_rFRnEChS",
-		"nama_skin": "Captain America Infinity War.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero27.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1u6HxHOsCMoCIaRtTUUY403UFDmH09f-Z",
-		"nama_skin": "Captain America John Walker.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero28.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1E0ctaqQIZrzil_VhGQcfIvUHbhUY_IHV",
-		"nama_skin": "Captain America Rodgers Chris Evans.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero29.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1MUSs9kDqv6036SbaoiqvKw7TuvmybnX7",
-		"nama_skin": "Captain America Skin.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero30.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1iih4Wq2GmS_r5a5GJSDZ655Lf3dbDa79",
-		"nama_skin": "Captain America Thor.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero31.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1kP6K0IWkra-yxynSBrucpW9m_YbAIEQn",
-		"nama_skin": "Cool Superman.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero32.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1SR5QWUtEwtUZYAe1OlxZrtUoN3nL-34b",
-		"nama_skin": "Cyborg Captain America #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero33.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1uB_Y4wJqCCzu4-OWVyM0tcuU-bz3xh0J",
-		"nama_skin": "Cyborg Captain America #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero34.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1TC6XjMo5KhTLMT-EbmNYpTUE1jAKN4ex",
-		"nama_skin": "Cyborg Captain America #03.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero35.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1oRiavl_I4GqPkgWvZ-iOsNsmvcvznM86",
-		"nama_skin": "Cyborg Captain America #04.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero36.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1wLkPvSrpmO9hC-RYP2OqLPzdJ9mf1J6h",
-		"nama_skin": "D8vid Thor.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero37.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/13l2xKUV8MEK6kie9dtsA9vx1jkRd8SaF",
-		"nama_skin": "Dead Pool #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero38.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1NGdXJZ3OUpvqBrOLC4MnXOLw4psPiVLY",
-		"nama_skin": "Dead Pool #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero39.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1quviXNAFc5gVsfpTMtS2EkqQmwXX7seT",
-		"nama_skin": "Dead Pool #03.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero40.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/172z90bAY9pFySlvUhrqTiedhFPG1sTgQ",
-		"nama_skin": "Dead Pool #04.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero41.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1xj8ulE7minx_Ha9lQJ1NwUa9w4ogo-vk",
-		"nama_skin": "Falcon Captain America.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero42.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1JgxzksS76G6g_Xbulzq0zowZgP3TZX53",
-		"nama_skin": "Guiromax Hulk 80 Porciento.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero43.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1ipm_qKWQckXdUcMCsksSKQbYksAA0Nzw",
-		"nama_skin": "Hulk #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero44.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1_ry-3zkjeC3F0E8iOQmj3aTiVwlX-94_",
-		"nama_skin": "Hulk Avengers Infinity War.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero45.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1lWSkAjmrXSEWeDOENqzx3GR1D5jA47yY",
-		"nama_skin": "Hulk Infinity War.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero46.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1on3VaCdMu55zxkAJBkk95JDv3BywlMTg",
-		"nama_skin": "Hulk Maestro.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero47.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1o5VlPL3oXXHXBeYThq4MppQJ4rnHyMG3",
-		"nama_skin": "Hulk Skin Pack Heroi.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero48.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1B3lAjxThNwow4552LtP3aqpEHYyhYCH4",
-		"nama_skin": "Hulk Thor.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero49.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1yWxw0-XGAncXpYj_MtxeBGd7zElLLarU",
-		"nama_skin": "IRON MAN.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero50.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1UV5vV7R_5DUow5G2HJLh7xUd_sUnIeJ8",
-		"nama_skin": "Iron Man #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero51.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/17wfIqHg_p_tT_s-1YRTjT0Uj_c0BeZoR",
-		"nama_skin": "Iron Man #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero52.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Rb7LDVn2ia9yORMVG0AN-ryPyWkndXi8",
-		"nama_skin": "Iron Man #03.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero53.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1i6r79CB45LZKYMhRy5nq3MNPWkglmpam",
-		"nama_skin": "Iron Man Argent Fortnite.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero54.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1MFLq0Wa5DQ9oZpmX7-7CyN9a2gnuKuaK",
-		"nama_skin": "Iron Man Avenger Endgame suit.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero55.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/15sQVQya9uLyanvj4y8Kol5_v5Wij1lBp",
-		"nama_skin": "Iron Man Civil War.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero56.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/13RMhJB9if1dJEXOYwBumpBDdB00YsI7y",
-		"nama_skin": "Iron Man Evil.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero57.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1BUxfi7kh_7e_dl7FsuvMFE9eZCIKjG26",
-		"nama_skin": "Iron Man Marc 50.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero58.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1S7IFkVylSM3td5YB1djRz2RZl453bBog",
-		"nama_skin": "Iron Man Mark  Avenger Infinity War 2018.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero59.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1rAmovFNHPKxTLzk7kxd59GYXMxhfdQG0",
-		"nama_skin": "Iron Man Mark 50.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero60.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/137MsjSyDAF6falrHf6kkMsToWy8oBo3X",
-		"nama_skin": "Iron Man Marvel Zombies.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero61.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1LUmmfLYi8ClwNsCzQxj0bRtVXuDJDRkO",
-		"nama_skin": "Iron Man Mk1.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero62.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1R55ET3LK7Igyd7lO40JFcrZlMQt-hTfm",
-		"nama_skin": "Iron Man Suit Up.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero63.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Kt_VvOKPTaRE1CdPZUDOU_BwG3r2sPhx",
-		"nama_skin": "Lucas Thor.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero64.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Tz_f0jGr44dxjq7WxGl9QJ3dcsXjlTyA",
-		"nama_skin": "Menino Skin Superman.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero65.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1m0DbAlPm1Jt8B9GW3ittAno2i1topDUS",
-		"nama_skin": "Mikecrack Iron Man.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero66.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/18VY3RW2yLVmEPAG0-MG1u2WEsPRFPr6d",
-		"nama_skin": "Mikolaj Thor.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero67.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1NfCRpSKrDXzTaX3SAzpZYTaLrWZHVLjB",
-		"nama_skin": "Mitzy The Monkey Captain America cloth.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero68.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1OZkyfHAWgDhFrmdodhl5O-_Mb-02Y-xL",
-		"nama_skin": "Peter Parker Spiderman Main Suit Unmasked.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero69.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Yod5f-24LS_0Abf4GgNR4TbXh8ZUZ6V5",
-		"nama_skin": "Red Hood Jason Batman.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero70.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1xaRE9_VzLqVWv1jretmy6-Mw1_TObNM9",
-		"nama_skin": "Skin Do Batman .png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero71.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/15WXpAikUz8qH6iBe9LbPzMFJJhTVcxKM",
-		"nama_skin": "Skin Thor.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero72.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1wSSHaB9xwT6Z_NM16j8d432DfvpnCvGO",
-		"nama_skin": "Spiderman  Tobey Meguire.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero73.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1JtTLt1lUBXIe4t4bbQQuF3VU3xEcuj_1",
-		"nama_skin": "Spiderman #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero74.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1fzXdZJ2_l5tvkE3kd_ejQLfKY8wGtCPH",
-		"nama_skin": "Spiderman #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero75.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1hutbNEYRsaPlU0Ug6e0vWbRNb2BjTslB",
-		"nama_skin": "Spiderman ( Miles Morales ).png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero76.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Zz79O4EN9wDC8PMSfsWTqolH9YVtvMwA",
-		"nama_skin": "Spiderman 2099.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero77.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1G2VjdtJodQ6tAkFgjxTmGLTEsVLtEPeJ",
-		"nama_skin": "Spiderman Far From Home.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero78.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1jdu1-6PTtuwqbp0J6oWmUpXI1G-QFIK0",
-		"nama_skin": "Spiderman Genial.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero79.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1HdydvUWpZSS8RxEdyDJU0WjjAYToJcdP",
-		"nama_skin": "Spiderman Home Coming.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero80.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1XIyVl2OWNlnHfThiPCUtvqY4aPtDc3Zc",
-		"nama_skin": "Spiderman Homecoming HD Skin.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero81.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1M5nJhuw85dtAJKGD9x1UcM7OCueZio61",
-		"nama_skin": "Spiderman Peter Parker.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero82.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1uKoKcFlohFTTvgMTdBPwy3hmeHlpxy-T",
-		"nama_skin": "Spiderman Ps 5.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero83.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1D0XAZmI6AjoHLTwDXjHQY7sih-N1bBJX",
-		"nama_skin": "Spiderman White Suit 2099.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero84.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1iLugo1_h6zHWWVVEcjBChnO2Q6QTqpWn",
-		"nama_skin": "Super Boy Kon El.2.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero85.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1IBeWHHlpKSRL1kv3uBUcFn7J0Fn34OUV",
-		"nama_skin": "Superman #01.2.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero86.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1x7FNHAdeKohFhdRMb6G9Z9i81Abcw8CK",
-		"nama_skin": "Superman #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero87.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1-1K_4rvHWLyItPTApMusepl35b6tKszB",
-		"nama_skin": "Superman #03.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero88.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Huj87L36s4AcZalY4mQq9es-4LMt6sDE",
-		"nama_skin": "Superman #04.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero89.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1YwFeMtN9nS7eiJEZ_zBKqPvfb1AfnlNh",
-		"nama_skin": "Superman #05.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero90.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1ALRURqVHHd-P21CWCrgzuiNGSV1s3ZsV",
-		"nama_skin": "Superman ( Injustice ).png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero91.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/11Sh5A5oDT_hGpX_tT9Aj-gmQOov1fbv-",
-		"nama_skin": "Superman Black Suit Snyder Cut V2 FIXED.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero92.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Quyn_fc01FmFelZNkt4lh50jfmE07kMa",
-		"nama_skin": "Superman Boy Skin.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero93.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Ua-l0lGkLx-ag5J-mXmVXXuLlooGBUm9",
-		"nama_skin": "Superman Boy.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero94.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1DOUvoPj76X2IV9Zz2mr5dVbOplnARzZP",
-		"nama_skin": "Superman Clark Kent Henry Cavil.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero95.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1baxXoyPRyniVFG2V6o_o-4Tmf4aPLpYG",
-		"nama_skin": "Superman New 52.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero96.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Rv-WgRiqfXCKoQiTZj1iI75ZwnB0Zcg_",
-		"nama_skin": "Superman Skin Ben.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero97.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1NNnioH7pbkYOFF-XMOYb3lSXOKawFNya",
-		"nama_skin": "Superman Skin.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero98.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1ha67CqkgsHdpGf9q2Mqc6X6kbWxWyOkr",
-		"nama_skin": "Thor #01.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero99.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/151lGNAuaYi7attiXpJMYwV52U8oisQ38",
-		"nama_skin": "Thor #02.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero100.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1cDs5gBWeCBCAfysw8U7-CmqvZoZfcnUQ",
-		"nama_skin": "Thor #04.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero101.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1hu86xBri6f49vKUtODJEqjy-BrQpJ0yR",
-		"nama_skin": "Thor #05.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero102.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1KTr2RMDHmmW2kO1_dKIe03CEPp0HbkIb",
-		"nama_skin": "Thor #06.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero103.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1zNR21yalm-0nyyyl8SNgLRvhdyu7KOYR",
-		"nama_skin": "Thor #07.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero104.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1fTrHxbkNTNy_OVPRGq2wZam88rrsOVdO",
-		"nama_skin": "Thor Avengers.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero105.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1YGQj4D0wQrWJroAUneJzNIjvnHGOynlm",
-		"nama_skin": "Thor Con Miorlin y Strombreaker.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero106.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1nmo4EXeS26mUbbxIo7jzKcWwGV9Bbv9-",
-		"nama_skin": "Thor Ev.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero107.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1acALBeMQyBTCaymnbpm7Vtb5opKJ0q7C",
-		"nama_skin": "Thor For Gods.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero108.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1tC5ikQ7T3V734-s6rjVAg4ZaQHydmjSs",
-		"nama_skin": "Thor Girl.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero109.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1zRglDUWrEOOgASMDMDCTI3h_yEkulooQ",
-		"nama_skin": "Thor Infinity War.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero110.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1QLzlxjDR0aGhRuVw6vrbZif8_cBljvlC",
-		"nama_skin": "Thor Last Suit.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero111.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1YStoKuEyHsmL1eANfSEAWADvuwUWFI8G",
-		"nama_skin": "Thor Odinson.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero112.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1RTps3AXg4YKRcZg49vvZiObY4ydpIQst",
-		"nama_skin": "Thor Rgnrok.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero113.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1Wug9iVdKmwhrxuCmpPWYS3Gt-uUk4x6E",
-		"nama_skin": "Thor Skin.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero114.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/1hEiKs4PctKYhwaVho5MtypHiIFH6cgfp",
-		"nama_skin": "Ultimate Spiderman.png",
-		"id": 1
-	},
-	{
-		"view_skin": "file:///android_asset/view/superhero115.png",
-		"skin_url": "https://lh3.googleusercontent.com/d/16fB2I2pwMUCNZ8I_uCR9QUPEa38eOB6t",
-		"nama_skin": "Venom From Spiderman 3.png",
-		"id": 1
-	},
-	  
+    {
+      "view_skin": "file:///android_asset/view/superhero1.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/14iBZd3UbssEAjD8IevuFAHfuFiVImBV0",
+      "nama_skin": "3D Fire Iron Man.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero2.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1gEi2YC9_rxDAZHyrTCuQLnUAKTvn5ZrQ",
+      "nama_skin": "America Captain.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero3.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1MLSUGPq-lOCEuM39JItWOYo5UUX1ZuOl",
+      "nama_skin": "Ant Man #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero4.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/174aJTZPP1QmduH9-9G1TNz8uBeW62fT2",
+      "nama_skin": "Ant Man #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero5.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1A0cbEF5gT6p23k1fWkqGb5vgZt1sTaW-",
+      "nama_skin": "Ant Man And The Wasp's Antman by Marvel Spidey.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero6.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1_OWG1-lFv6tNODWVum_mCWnSsDXUo7q9",
+      "nama_skin": "Ant Man Scot Lang.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero7.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/14DhbsX5xNc88udWiYIfzIp2cFGFIhaO8",
+      "nama_skin": "Armored Batman.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero8.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/12839TNe5O8ZcHA2sCWMIP7VR6MFLKk29",
+      "nama_skin": "Avengers AOU Captain America.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero9.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1BmF19po50iz8n3dOkb-M8irpgfEW2Oe3",
+      "nama_skin": "Avengers Bekir Thor Okadar.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero10.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Hrrc4bbJXjNIL1d__BSl7RlxvzBAXNkz",
+      "nama_skin": "Batman Arkham Knight.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero11.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1WCuehWqOjcDP6JgeOzJnmBRUPXuBd7WC",
+      "nama_skin": "Batman Beyond Suit.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero12.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/10PCWpCQXdfixTsoyxQAxR_y3vYdfTRdS",
+      "nama_skin": "Batman Erkek.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero13.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1WX2Vynj0ZpOCXZy1j3p4XiIalEf8aDcv",
+      "nama_skin": "Batman Minecraft.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero14.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1sOCRS1ya1o7rVzhuURti316zRH9I_uHm",
+      "nama_skin": "Batman Murder Machine.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero15.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1QnuFAtpM6nmwczUvxJjK3RTNx8O_SH82",
+      "nama_skin": "Batman Skin.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero16.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1z3n214qMc-c7TjRCutaNVab2pl7BgtYW",
+      "nama_skin": "Batman The Dawnbreaker.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero17.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1o29JKv0j74XrvRipGnnRWOjjdvez_7z9",
+      "nama_skin": "Batman The Merciles.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero18.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1nKylCwxDvjans7Z-_Y4sdnWHmpcKgM3W",
+      "nama_skin": "Batman The Red Death.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero19.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1CLHbgnqByUTcvbCca8jWYJuWr4Gluy82",
+      "nama_skin": "Batman Thomas Wayne.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero20.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1a-wnhwwVKbgCd9-ZUB2Ue3c-dCC8nQ8L",
+      "nama_skin": "Bruce Wayne Batman Suit.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero21.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1eigBT_U1iTxqvdaWek0LBGJkFF7rr6oP",
+      "nama_skin": "Bruce Wayne Batman.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero22.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/13vJGDbwlLeBHNElYsT1NDXpHjdFcLReN",
+      "nama_skin": "CAPTAIN AMERICA.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero23.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1uV1U2Xnh9UNAnf5TN9kzEKu9WFxZm5NF",
+      "nama_skin": "Captain America #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero24.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1y4Y2l-uc634bxv1LAYlWFKwZGXXOJxcU",
+      "nama_skin": "Captain America #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero25.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1IhtzagEfk6ZJ2xhCHR8ulc_9xAMGGWh2",
+      "nama_skin": "Captain America #03.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero26.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/19cHetTo5DVqHOSGIGkMKXVZ_rFRnEChS",
+      "nama_skin": "Captain America Infinity War.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero27.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1u6HxHOsCMoCIaRtTUUY403UFDmH09f-Z",
+      "nama_skin": "Captain America John Walker.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero28.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1E0ctaqQIZrzil_VhGQcfIvUHbhUY_IHV",
+      "nama_skin": "Captain America Rodgers Chris Evans.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero29.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1MUSs9kDqv6036SbaoiqvKw7TuvmybnX7",
+      "nama_skin": "Captain America Skin.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero30.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1iih4Wq2GmS_r5a5GJSDZ655Lf3dbDa79",
+      "nama_skin": "Captain America Thor.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero31.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1kP6K0IWkra-yxynSBrucpW9m_YbAIEQn",
+      "nama_skin": "Cool Superman.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero32.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1SR5QWUtEwtUZYAe1OlxZrtUoN3nL-34b",
+      "nama_skin": "Cyborg Captain America #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero33.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1uB_Y4wJqCCzu4-OWVyM0tcuU-bz3xh0J",
+      "nama_skin": "Cyborg Captain America #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero34.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1TC6XjMo5KhTLMT-EbmNYpTUE1jAKN4ex",
+      "nama_skin": "Cyborg Captain America #03.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero35.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1oRiavl_I4GqPkgWvZ-iOsNsmvcvznM86",
+      "nama_skin": "Cyborg Captain America #04.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero36.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1wLkPvSrpmO9hC-RYP2OqLPzdJ9mf1J6h",
+      "nama_skin": "D8vid Thor.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero37.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/13l2xKUV8MEK6kie9dtsA9vx1jkRd8SaF",
+      "nama_skin": "Dead Pool #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero38.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1NGdXJZ3OUpvqBrOLC4MnXOLw4psPiVLY",
+      "nama_skin": "Dead Pool #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero39.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1quviXNAFc5gVsfpTMtS2EkqQmwXX7seT",
+      "nama_skin": "Dead Pool #03.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero40.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/172z90bAY9pFySlvUhrqTiedhFPG1sTgQ",
+      "nama_skin": "Dead Pool #04.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero41.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xj8ulE7minx_Ha9lQJ1NwUa9w4ogo-vk",
+      "nama_skin": "Falcon Captain America.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero42.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1JgxzksS76G6g_Xbulzq0zowZgP3TZX53",
+      "nama_skin": "Guiromax Hulk 80 Porciento.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero43.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1ipm_qKWQckXdUcMCsksSKQbYksAA0Nzw",
+      "nama_skin": "Hulk #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero44.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1_ry-3zkjeC3F0E8iOQmj3aTiVwlX-94_",
+      "nama_skin": "Hulk Avengers Infinity War.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero45.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1lWSkAjmrXSEWeDOENqzx3GR1D5jA47yY",
+      "nama_skin": "Hulk Infinity War.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero46.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1on3VaCdMu55zxkAJBkk95JDv3BywlMTg",
+      "nama_skin": "Hulk Maestro.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero47.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1o5VlPL3oXXHXBeYThq4MppQJ4rnHyMG3",
+      "nama_skin": "Hulk Skin Pack Heroi.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero48.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1B3lAjxThNwow4552LtP3aqpEHYyhYCH4",
+      "nama_skin": "Hulk Thor.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero49.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1yWxw0-XGAncXpYj_MtxeBGd7zElLLarU",
+      "nama_skin": "IRON MAN.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero50.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1UV5vV7R_5DUow5G2HJLh7xUd_sUnIeJ8",
+      "nama_skin": "Iron Man #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero51.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/17wfIqHg_p_tT_s-1YRTjT0Uj_c0BeZoR",
+      "nama_skin": "Iron Man #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero52.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Rb7LDVn2ia9yORMVG0AN-ryPyWkndXi8",
+      "nama_skin": "Iron Man #03.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero53.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1i6r79CB45LZKYMhRy5nq3MNPWkglmpam",
+      "nama_skin": "Iron Man Argent Fortnite.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero54.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1MFLq0Wa5DQ9oZpmX7-7CyN9a2gnuKuaK",
+      "nama_skin": "Iron Man Avenger Endgame suit.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero55.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/15sQVQya9uLyanvj4y8Kol5_v5Wij1lBp",
+      "nama_skin": "Iron Man Civil War.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero56.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/13RMhJB9if1dJEXOYwBumpBDdB00YsI7y",
+      "nama_skin": "Iron Man Evil.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero57.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1BUxfi7kh_7e_dl7FsuvMFE9eZCIKjG26",
+      "nama_skin": "Iron Man Marc 50.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero58.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1S7IFkVylSM3td5YB1djRz2RZl453bBog",
+      "nama_skin": "Iron Man Mark  Avenger Infinity War 2018.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero59.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1rAmovFNHPKxTLzk7kxd59GYXMxhfdQG0",
+      "nama_skin": "Iron Man Mark 50.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero60.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/137MsjSyDAF6falrHf6kkMsToWy8oBo3X",
+      "nama_skin": "Iron Man Marvel Zombies.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero61.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1LUmmfLYi8ClwNsCzQxj0bRtVXuDJDRkO",
+      "nama_skin": "Iron Man Mk1.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero62.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1R55ET3LK7Igyd7lO40JFcrZlMQt-hTfm",
+      "nama_skin": "Iron Man Suit Up.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero63.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Kt_VvOKPTaRE1CdPZUDOU_BwG3r2sPhx",
+      "nama_skin": "Lucas Thor.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero64.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Tz_f0jGr44dxjq7WxGl9QJ3dcsXjlTyA",
+      "nama_skin": "Menino Skin Superman.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero65.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1m0DbAlPm1Jt8B9GW3ittAno2i1topDUS",
+      "nama_skin": "Mikecrack Iron Man.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero66.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/18VY3RW2yLVmEPAG0-MG1u2WEsPRFPr6d",
+      "nama_skin": "Mikolaj Thor.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero67.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1NfCRpSKrDXzTaX3SAzpZYTaLrWZHVLjB",
+      "nama_skin": "Mitzy The Monkey Captain America cloth.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero68.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1OZkyfHAWgDhFrmdodhl5O-_Mb-02Y-xL",
+      "nama_skin": "Peter Parker Spiderman Main Suit Unmasked.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero69.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Yod5f-24LS_0Abf4GgNR4TbXh8ZUZ6V5",
+      "nama_skin": "Red Hood Jason Batman.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero70.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1xaRE9_VzLqVWv1jretmy6-Mw1_TObNM9",
+      "nama_skin": "Skin Do Batman .png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero71.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/15WXpAikUz8qH6iBe9LbPzMFJJhTVcxKM",
+      "nama_skin": "Skin Thor.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero72.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1wSSHaB9xwT6Z_NM16j8d432DfvpnCvGO",
+      "nama_skin": "Spiderman  Tobey Meguire.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero73.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1JtTLt1lUBXIe4t4bbQQuF3VU3xEcuj_1",
+      "nama_skin": "Spiderman #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero74.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1fzXdZJ2_l5tvkE3kd_ejQLfKY8wGtCPH",
+      "nama_skin": "Spiderman #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero75.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1hutbNEYRsaPlU0Ug6e0vWbRNb2BjTslB",
+      "nama_skin": "Spiderman ( Miles Morales ).png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero76.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Zz79O4EN9wDC8PMSfsWTqolH9YVtvMwA",
+      "nama_skin": "Spiderman 2099.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero77.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1G2VjdtJodQ6tAkFgjxTmGLTEsVLtEPeJ",
+      "nama_skin": "Spiderman Far From Home.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero78.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1jdu1-6PTtuwqbp0J6oWmUpXI1G-QFIK0",
+      "nama_skin": "Spiderman Genial.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero79.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1HdydvUWpZSS8RxEdyDJU0WjjAYToJcdP",
+      "nama_skin": "Spiderman Home Coming.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero80.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1XIyVl2OWNlnHfThiPCUtvqY4aPtDc3Zc",
+      "nama_skin": "Spiderman Homecoming HD Skin.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero81.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1M5nJhuw85dtAJKGD9x1UcM7OCueZio61",
+      "nama_skin": "Spiderman Peter Parker.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero82.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1uKoKcFlohFTTvgMTdBPwy3hmeHlpxy-T",
+      "nama_skin": "Spiderman Ps 5.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero83.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1D0XAZmI6AjoHLTwDXjHQY7sih-N1bBJX",
+      "nama_skin": "Spiderman White Suit 2099.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero84.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1iLugo1_h6zHWWVVEcjBChnO2Q6QTqpWn",
+      "nama_skin": "Super Boy Kon El.2.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero85.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1IBeWHHlpKSRL1kv3uBUcFn7J0Fn34OUV",
+      "nama_skin": "Superman #01.2.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero86.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1x7FNHAdeKohFhdRMb6G9Z9i81Abcw8CK",
+      "nama_skin": "Superman #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero87.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1-1K_4rvHWLyItPTApMusepl35b6tKszB",
+      "nama_skin": "Superman #03.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero88.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Huj87L36s4AcZalY4mQq9es-4LMt6sDE",
+      "nama_skin": "Superman #04.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero89.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1YwFeMtN9nS7eiJEZ_zBKqPvfb1AfnlNh",
+      "nama_skin": "Superman #05.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero90.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1ALRURqVHHd-P21CWCrgzuiNGSV1s3ZsV",
+      "nama_skin": "Superman ( Injustice ).png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero91.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/11Sh5A5oDT_hGpX_tT9Aj-gmQOov1fbv-",
+      "nama_skin": "Superman Black Suit Snyder Cut V2 FIXED.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero92.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Quyn_fc01FmFelZNkt4lh50jfmE07kMa",
+      "nama_skin": "Superman Boy Skin.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero93.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Ua-l0lGkLx-ag5J-mXmVXXuLlooGBUm9",
+      "nama_skin": "Superman Boy.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero94.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1DOUvoPj76X2IV9Zz2mr5dVbOplnARzZP",
+      "nama_skin": "Superman Clark Kent Henry Cavil.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero95.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1baxXoyPRyniVFG2V6o_o-4Tmf4aPLpYG",
+      "nama_skin": "Superman New 52.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero96.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Rv-WgRiqfXCKoQiTZj1iI75ZwnB0Zcg_",
+      "nama_skin": "Superman Skin Ben.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero97.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1NNnioH7pbkYOFF-XMOYb3lSXOKawFNya",
+      "nama_skin": "Superman Skin.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero98.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1ha67CqkgsHdpGf9q2Mqc6X6kbWxWyOkr",
+      "nama_skin": "Thor #01.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero99.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/151lGNAuaYi7attiXpJMYwV52U8oisQ38",
+      "nama_skin": "Thor #02.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero100.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1cDs5gBWeCBCAfysw8U7-CmqvZoZfcnUQ",
+      "nama_skin": "Thor #04.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero101.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1hu86xBri6f49vKUtODJEqjy-BrQpJ0yR",
+      "nama_skin": "Thor #05.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero102.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1KTr2RMDHmmW2kO1_dKIe03CEPp0HbkIb",
+      "nama_skin": "Thor #06.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero103.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1zNR21yalm-0nyyyl8SNgLRvhdyu7KOYR",
+      "nama_skin": "Thor #07.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero104.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1fTrHxbkNTNy_OVPRGq2wZam88rrsOVdO",
+      "nama_skin": "Thor Avengers.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero105.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1YGQj4D0wQrWJroAUneJzNIjvnHGOynlm",
+      "nama_skin": "Thor Con Miorlin y Strombreaker.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero106.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1nmo4EXeS26mUbbxIo7jzKcWwGV9Bbv9-",
+      "nama_skin": "Thor Ev.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero107.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1acALBeMQyBTCaymnbpm7Vtb5opKJ0q7C",
+      "nama_skin": "Thor For Gods.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero108.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1tC5ikQ7T3V734-s6rjVAg4ZaQHydmjSs",
+      "nama_skin": "Thor Girl.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero109.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1zRglDUWrEOOgASMDMDCTI3h_yEkulooQ",
+      "nama_skin": "Thor Infinity War.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero110.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1QLzlxjDR0aGhRuVw6vrbZif8_cBljvlC",
+      "nama_skin": "Thor Last Suit.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero111.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1YStoKuEyHsmL1eANfSEAWADvuwUWFI8G",
+      "nama_skin": "Thor Odinson.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero112.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1RTps3AXg4YKRcZg49vvZiObY4ydpIQst",
+      "nama_skin": "Thor Rgnrok.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero113.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1Wug9iVdKmwhrxuCmpPWYS3Gt-uUk4x6E",
+      "nama_skin": "Thor Skin.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero114.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/1hEiKs4PctKYhwaVho5MtypHiIFH6cgfp",
+      "nama_skin": "Ultimate Spiderman.png",
+      "id": 1
+    },
+    {
+      "view_skin": "file:///android_asset/view/superhero115.png",
+      "skin_url": "https://lh3.googleusercontent.com/d/16fB2I2pwMUCNZ8I_uCR9QUPEa38eOB6t",
+      "nama_skin": "Venom From Spiderman 3.png",
+      "id": 1
+    },
     {
       "skin_url": "https://lh3.googleusercontent.com/d/1Qm5leN8CkyTOTqNz837O04P3JhxqIufF",
       "nama_skin": "Ace Fire Deadpool",
@@ -3088,8 +3087,7 @@
       "id": 1,
       "view_skin": "https://lh3.googleusercontent.com/d/1YwLHeCb_4DYa9s20Wwg4G37VCMNN9tPX"
     }
-]
-,
+  ],
   "Addons": [
     {
       "id": 1,
